@@ -18,5 +18,10 @@ CIO_SECRET=<your_secret>
 ```
 
 3. Enter a database username and password into the `.env` file. This database is just for your glitch app, so the username/password can be anything you want.
+```
+## .env
+DB_USER=<your_user>
+DB_PASS=<your_pass>
+```
 
 4. Build something cool! This app can connect mailboxes and set up simple webhooks for them, but there are many more CIO features to play with.

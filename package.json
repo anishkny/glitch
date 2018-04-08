@@ -1,6 +1,6 @@
 {
 	"name": "contextio-glitch",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A sample CIO app running on glitch",
 	"main": "server.js",
 	"scripts": {
@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"express": "^4.15.2",
-		"contextio": "^1.1.0",
+		"contextio": "^1.3.1",
 		"sequelize": "^3.30.4",
 		"sqlite3": "^3.1.8",
 		"body-parser": "^1.17.1"
